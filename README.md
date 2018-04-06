@@ -13,6 +13,7 @@ In order to train, you will need:
 * NumPy
 * SciPy 0.19.1
 * Pillow
+* Pandas
 
 To train, first download CelebA dataset and metadata from [http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html):
 * Unzip **img_align_celeba.zip** to /data/img_align_celeba
